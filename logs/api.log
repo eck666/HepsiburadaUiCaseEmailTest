@@ -1,0 +1,40 @@
+04-05-2022 01:52:45.331 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+04-05-2022 01:52:45.333 [Gauge] [INFO] Initializing specs cache with 1 specs
+04-05-2022 01:52:45.333 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\untitled\specs\example.spec
+04-05-2022 01:52:45.334 [Gauge] [INFO] Initializing steps cache with 1 steps
+04-05-2022 01:52:45.334 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56039
+04-05-2022 01:52:45.334 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\untitled\specs
+04-05-2022 01:52:45.334 [Gauge] [DEBUG] Found 1 files
+04-05-2022 01:52:57.466 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+04-05-2022 01:52:57.466 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+04-05-2022 01:52:57.479 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+04-05-2022 01:52:57.479 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+04-05-2022 01:52:57.479 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+04-05-2022 01:52:57.479 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+04-05-2022 02:02:38.447 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\untitled\specs\example.spec
+04-05-2022 02:02:38.462 [Gauge] [DEBUG] Spec file added / modified: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\untitled\specs\example.spec
+04-05-2022 02:21:30.621 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+04-05-2022 02:21:30.622 [Gauge] [INFO] Initializing specs cache with 1 specs
+04-05-2022 02:21:30.622 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\specs\example.spec
+04-05-2022 02:21:30.622 [Gauge] [INFO] Initializing steps cache with 1 steps
+04-05-2022 02:21:30.622 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57131
+04-05-2022 02:21:30.622 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\specs
+04-05-2022 02:21:30.623 [Gauge] [DEBUG] Found 1 files
+04-05-2022 02:21:30.917 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest  messageId:5  libPathRequest:{language:"java"}
+04-05-2022 02:21:30.918 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse  messageId:5  libPathResponse:{path:"C:\\Users\\ECK\\AppData\\Roaming\\gauge\\plugins\\java\\0.8.1\\libs"}
+04-05-2022 02:21:41.036 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+04-05-2022 02:21:41.037 [Gauge] [INFO] Initializing specs cache with 1 specs
+04-05-2022 02:21:41.037 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\specs\example.spec
+04-05-2022 02:21:41.037 [Gauge] [INFO] Initializing steps cache with 1 steps
+04-05-2022 02:21:41.037 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57142
+04-05-2022 02:21:41.038 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\specs
+04-05-2022 02:21:41.039 [Gauge] [DEBUG] Found 1 files
+04-05-2022 02:21:41.330 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest  messageId:5  libPathRequest:{language:"java"}
+04-05-2022 02:21:41.331 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse  messageId:5  libPathResponse:{path:"C:\\Users\\ECK\\AppData\\Roaming\\gauge\\plugins\\java\\0.8.1\\libs"}
+04-05-2022 02:21:49.930 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+04-05-2022 02:21:49.931 [Gauge] [INFO] Initializing specs cache with 1 specs
+04-05-2022 02:21:49.931 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\specs\example.spec
+04-05-2022 02:21:49.931 [Gauge] [INFO] Initializing steps cache with 1 steps
+04-05-2022 02:21:49.931 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57146
+04-05-2022 02:21:49.932 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\ReadyTestECK\HepsiburadaUiCaseEmailTest\specs
+04-05-2022 02:21:49.932 [Gauge] [DEBUG] Found 1 files
